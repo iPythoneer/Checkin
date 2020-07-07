@@ -1,11 +1,3 @@
-'''
-Function:
-	网易云音乐自动签到
-Author:
-	Charles
-微信公众号:
-	Charles的皮卡丘
-'''
 import os
 import re
 import json
